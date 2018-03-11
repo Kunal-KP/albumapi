@@ -10,11 +10,11 @@ const data = [
       "thumbnail_image": "https://imgur.com/ArwexHM"
     },
     {
-      "title": "Fearless",
-      "artist": "Taylor Swift",
-      "url": "https://www.amazon.com/Fearless-Enhanced-Taylor-Swift/dp/B001EYGOEM",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51qmhXWZBxL.jpg",
-      "thumbnail_image": "https://i.imgur.com/K3KJ3w4h.jpg"
+      "title": "Soulful Voice",
+      "artist": "Arijit Singh",
+      "url": "https://www.amazon.in/Soulful-Voice-Arijit-Singh/dp/B0753CL95Q",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81oK70kbtUL._SL1500_.jpg",
+      "thumbnail_image": "https://imgur.com/a/li32N"
     },
     {
       "title": "Speak Now",
