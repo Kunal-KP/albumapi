@@ -38,7 +38,7 @@ const data = [
       "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/8185kfVlriL._SL1500_.jpg"
     }
   ]
-App.get('/', (req, res) => res.send(data))
+App.get('/', (req, res) => {res.header('Access-Control-Allow-Origin', '*');res.send(data)})
 
 let PORT = process.env.PORT || 3000
 App.listen(PORT, () => console.log('App started at ',PORT) )
